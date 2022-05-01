@@ -23,4 +23,4 @@ println(bg)
 both := vchalk.Chalk{s:'This is a bg test', fg:'#19E835',  bg:'#969450'}
 println(both)
 ```
-Availble colors: any hex color. Default foreground(`fg`) is white (`#ffffff`) and background(`bg`) is black (`#000000`)
+Available colors: any hex color. Default foreground(`fg`) is white (`#ffffff`) and background(`bg`) is black (`#000000`)
