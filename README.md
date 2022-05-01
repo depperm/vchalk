@@ -1,3 +1,5 @@
+Draft: see https://github.com/etienne-napoleone/chalk for chalk needs
+
 # VChalk
 Colorizer for terminal in vlang
 
