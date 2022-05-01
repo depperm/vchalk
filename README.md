@@ -7,7 +7,7 @@ Colorizer for terminal in vlang
 
 With vpm:
 
-    v install etienne_napoleone.chalk
+    v install depperm.vchalk
 
 ## Usage
 
